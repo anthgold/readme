@@ -1,0 +1,49 @@
+img{
+  width: 600px;
+
+}
+
+h1{
+  color: red;
+  font-size: 50px;
+}
+
+h2{
+  color: green;
+  font-size: 25px;
+}
+
+ul{
+
+}
+
+ol{
+
+}
+
+li{
+font-size: 40px;
+font-family: monospace;
+/*text-align: center;*/
+text-indent: 200px;
+text-shadow: 10px;
+}
+
+p{
+font-size: 20px;
+font-style: oblique;
+font-variant: small-caps;
+}
+
+a{
+
+}
+
+em{
+  color: blue;
+  font-family: cursive;
+  font-style: oblique;
+}
+body{
+background-image: url(http://a3.files.theultralinx.com/image/upload/MTI5MDU2ODM2MjQxMzc3Mjkw.gif);
+}
